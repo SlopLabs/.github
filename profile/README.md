@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="public/og.png" alt="SlopLabs" width="720" />
+  <img src="og.png" alt="SlopLabs" width="720" />
 </p>
 
 <p align="center">
