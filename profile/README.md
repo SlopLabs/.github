@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/status-building%20with%20ai-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/vibes-open%20labs-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/stability-ship%20often-orange?style=for-the-badge" />
-  <img src="https://sloc.xyz/github/SlopLabs/slopos?category=code" />
+  <img src="https://img.shields.io/github/languages/code-size/SlopLabs/slopos?style=for-the-badge" />
 </p>
 
 <p align="center">
