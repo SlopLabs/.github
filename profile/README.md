@@ -1,83 +1,28 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/status-building%20with%20ai-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/vibes-open%20labs-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/stability-ship%20often-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/github/languages/code-size/SlopLabs/slopos?style=for-the-badge" />
-</p>
-
-<p align="center">
   <img src="og.png" alt="SlopLabs" width="500" />
 </p>
 
 <p align="center">
-  <i>SlopLabs is an AI-native systems studio.<br/>
-  We build programs, kernels, and experiments where AI co-authors every layer.<br/>
-  We iterate fast, publish often, and keep everything open.</i>
-</p>
-
-<p align="center">
-  <b>Build fast → publish the trail.<br/>
-  Invite collaborators → ship the next drop.<br/>
-  The lab is always open.</b>
+  <strong>Seeing how far AI can take real software.</strong><br/>
+  A hobby collective building operating systems, tools, and whatever else seems fun — with AI doing the heavy lifting.
 </p>
 
 ---
 
-<br/>
+### Projects
 
-## Projects
+| Project    | What is it                                                                             | Status | Links                                                                                 |
+| ---------- | -------------------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------------------- |
+| **SlopOS** | A complete OS with a Rust kernel, built entirely by AI — from bootloader to userspace. | Active | [Website](https://slopos.sloplabs.net) · [Source](https://github.com/SlopLabs/slopos) |
 
-A living catalog of AI-built systems.
+### How we work
 
-| Project | Summary | Status | Links |
-| --- | --- | --- | --- |
-| **SlopOS** | A complete operating system with a Rust kernel built entirely by AI. | Active | [Website](https://slopos.sloplabs.net) · [Repo](https://github.com/SlopLabs/slopos) |
-
-Want to add a new project? Edit the `projects` array in `src/app/page.tsx`.
-
-<br/>
+- **AI writes the code.** We give direction, review the output, and iterate.
+- **Everything is on GitHub.** Poke around, fork something, open an issue — whatever.
+- **No grand plan.** We pick problems that seem fun and figure it out as we go.
 
 ---
-
-<br/>
-
-## Approach
-
-| | Principle |
-|:--:|---------|
-| | **AI-first workflow** — Prompt logs + verification checklists for every system |
-| | **Open repositories** — Everything lives on GitHub with issues labeled for onboarding |
-| | **Design for change** — Modular stacks and contract tests keep systems flexible |
-
-<br/>
-
----
-
-<br/>
-
-## Lab Status
-
-| | Signal |
-|:--:|---------|
-| | Primary repo: 1 |
-| | Systems in flight: 1 |
-| | AI copilots: 4 |
-
-<br/>
-
----
-
-<br/>
-
-## Connect
-
-- Website: https://sloplabs.net
-- GitHub: https://github.com/SlopLabs
-
-<br/>
 
 <p align="center">
-  <sub>
-    <i>SlopLabs builds in the open with AI, always.</i>
-  </sub>
+  <a href="https://sloplabs.net">sloplabs.net</a>
 </p>
